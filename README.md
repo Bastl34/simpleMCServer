@@ -27,3 +27,7 @@ A tiny macOS menu bar app for a vanilla Minecraft server (`java -jar server.jar 
 ```
 
 The server folder (default `/Volumes/Files/Minecraft`), Java path, memory etc. are in Settings.
+
+## License
+
+MIT – see [LICENSE](LICENSE).
