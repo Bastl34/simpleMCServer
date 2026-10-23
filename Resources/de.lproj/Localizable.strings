@@ -1,0 +1,184 @@
+/* simpleMCServer – Deutsch */
+
+/* Menu */
+"Updated to %@" = "Aktualisiert auf %@";
+"%@, before: %@\nWorld backup: %@" = "%1$@, vorher: %2$@\nWelt-Backup: %3$@";
+"Install Update to %@…" = "Update auf %@ installieren…";
+"Add %@ to Whitelist" = "%@ zur Whitelist hinzufügen";
+"Was refused at %@ – not on the whitelist" = "Um %@ abgelehnt – nicht auf der Whitelist";
+"Players (%lld)" = "Spieler (%lld)";
+"Online since %@" = "Online seit %@";
+"Send Message…" = "Nachricht senden…";
+"Remove Operator" = "Operator entziehen";
+"Make Operator" = "Zum Operator machen";
+"Kick" = "Kicken";
+"Nobody online" = "Niemand online";
+"Stop Server" = "Server stoppen";
+"Restart Server" = "Server neu starten";
+"Start Server" = "Server starten";
+"Message to Everyone…" = "Nachricht an alle…";
+"Back Up World Now" = "Welt jetzt sichern";
+"Console…" = "Konsole…";
+"Checking for Updates…" = "Suche nach Updates…";
+"Check for Updates…" = "Nach Updates suchen…";
+"Installed: %@" = "Installiert: %@";
+"Open Server Folder" = "Server-Ordner öffnen";
+"Open Backups" = "Backups öffnen";
+"Settings…" = "Einstellungen…";
+"About simpleMCServer" = "Über simpleMCServer";
+"Quit" = "Beenden";
+"Your Minecraft server in the menu bar." = "Dein Minecraft-Server in der Menüleiste.";
+
+/* Status */
+"Server stopped" = "Server gestoppt";
+"Server is starting…" = "Server startet…";
+"Server is stopping…" = "Server stoppt…";
+"Server crashed" = "Server abgestürzt";
+"Running outside of simpleMCServer" = "Läuft außerhalb von simpleMCServer";
+"Running – %@" = "Läuft – %@";
+"Running – %@ – for %@" = "Läuft – %1$@ – seit %2$@";
+
+/* Quit */
+"An update is being installed" = "Gerade wird ein Update installiert";
+"Please wait until it's finished." = "Bitte warte, bis es fertig ist.";
+"The Minecraft server is running" = "Der Minecraft-Server läuft";
+"Quitting stops the server – the world is saved first." = "Beim Beenden wird der Server gestoppt – die Welt wird vorher gespeichert.";
+"Stop Server and Quit" = "Server stoppen und beenden";
+"Cancel" = "Abbrechen";
+
+/* Dialogs */
+"The server couldn't be started" = "Der Server konnte nicht gestartet werden";
+"Message to Everyone" = "Nachricht an alle";
+"Appears in the chat of all players as [Server]." = "Erscheint im Chat aller Spieler als [Server].";
+"Send" = "Senden";
+"Message to %@" = "Nachricht an %@";
+"Only %@ sees it (whispered)." = "Nur %@ sieht sie (geflüstert).";
+"%@ couldn't be added to the whitelist" = "%@ konnte nicht zur Whitelist hinzugefügt werden";
+"%@ couldn't be removed from the whitelist" = "%@ konnte nicht von der Whitelist entfernt werden";
+"The whitelist couldn't be changed" = "Die Whitelist konnte nicht geändert werden";
+"World backed up: %@" = "Welt gesichert: %@";
+"World backed up" = "Welt gesichert";
+"The world couldn't be backed up" = "Die Welt konnte nicht gesichert werden";
+
+/* Updates */
+"The server is up to date" = "Der Server ist aktuell";
+"Version %@ is the newest release." = "Version %@ ist die neueste Version.";
+"Checking for updates failed" = "Die Update-Suche ist fehlgeschlagen";
+"Version %@ is available" = "Version %@ ist verfügbar";
+"Installed: %@. Before the update, the world is backed up together with the old server.jar." = "Installiert: %@. Vor dem Update wird die Welt zusammen mit der alten server.jar gesichert.";
+"%lld player(s) online will be warned in the chat and disconnected after 30 seconds." = "%lld Spieler online – sie werden im Chat gewarnt und nach 30 Sekunden getrennt.";
+"Update Now" = "Jetzt aktualisieren";
+"Tonight" = "Heute Nacht";
+"Later" = "Später";
+"Downloading %@…" = "Lade %@ herunter…";
+"The server restarts in 30 seconds for the update to %@." = "Der Server startet in 30 Sekunden neu – Update auf %@.";
+"Stopping server…" = "Stoppe Server…";
+"Backing up world…" = "Sichere Welt…";
+"Installing %@…" = "Installiere %@…";
+"Starting %@…" = "Starte %@…";
+"Updated from %@ to %@." = "Von %1$@ auf %2$@ aktualisiert.";
+"Minecraft server updated to %@" = "Minecraft-Server auf %@ aktualisiert";
+"Previously %@. The world was backed up to “%@”." = "Vorher %1$@. Die Welt wurde in „%2$@“ gesichert.";
+"Update to %@ failed: %@" = "Update auf %1$@ fehlgeschlagen: %2$@";
+"Server update to %@ failed" = "Server-Update auf %@ fehlgeschlagen";
+"Mojang's server couldn't be reached: %@" = "Mojangs Server ist nicht erreichbar: %@";
+"The version of the installed server.jar couldn't be determined." = "Die Version der installierten server.jar ließ sich nicht ermitteln.";
+"The downloaded server.jar is damaged (checksum mismatch)." = "Die heruntergeladene server.jar ist beschädigt (Prüfsumme stimmt nicht).";
+"The new version needs Java %lld, but Java %lld is installed." = "Die neue Version braucht Java %1$lld, installiert ist Java %2$lld.";
+"The server was started outside of simpleMCServer and can't be updated from here." = "Der Server wurde außerhalb von simpleMCServer gestartet und kann von hier nicht aktualisiert werden.";
+"Version %@ didn't start. The old server.jar is back in place, the server stays stopped. The world from before the update is in “%@”." = "Version %1$@ ist nicht gestartet. Die alte server.jar ist wiederhergestellt, der Server bleibt gestoppt. Die Welt von vor dem Update liegt in „%2$@“.";
+
+/* Notifications */
+"Add to Whitelist" = "Zur Whitelist hinzufügen";
+"The Minecraft server crashed" = "Der Minecraft-Server ist abgestürzt";
+"It restarts in 5 seconds." = "Er startet in 5 Sekunden neu.";
+"It stays stopped – details in the console." = "Er bleibt gestoppt – Details in der Konsole.";
+"%@ joined the server" = "%@ ist dem Server beigetreten";
+"%@ left the server" = "%@ hat den Server verlassen";
+"%@ isn't on the whitelist" = "%@ ist nicht auf der Whitelist";
+"The connection was refused. Add %@ with the button or from the menu." = "Die Verbindung wurde abgelehnt. Füge %@ mit dem Button oder über das Menü hinzu.";
+"Online: %@" = "Online: %@";
+
+/* Server */
+"There is no server.jar at “%@”." = "Unter „%@“ liegt keine server.jar.";
+"There is no Java at “%@”. Install a JDK or change the path in Settings." = "Unter „%@“ gibt es kein Java. Installiere ein JDK oder passe den Pfad in den Einstellungen an.";
+"The Minecraft EULA hasn't been accepted yet. Set “eula=true” in “%@”." = "Die Minecraft-EULA wurde noch nicht akzeptiert. Setze „eula=true“ in „%@“.";
+"The server was started outside of simpleMCServer and can't be controlled from here." = "Der Server wurde außerhalb von simpleMCServer gestartet und kann von hier nicht gesteuert werden.";
+"There is no Minecraft account called “%@”." = "Es gibt keinen Minecraft-Account namens „%@“.";
+"“%@” is not a valid player name." = "„%@“ ist kein gültiger Spielername.";
+"Starting server…" = "Server wird gestartet…";
+"The server doesn't respond – terminating it." = "Der Server reagiert nicht – er wird beendet.";
+"Server stopped." = "Server gestoppt.";
+"The server exited unexpectedly (code %lld)." = "Der Server wurde unerwartet beendet (Code %lld).";
+"A server started outside of simpleMCServer is running – log and players are read-only." = "Es läuft ein Server, der außerhalb von simpleMCServer gestartet wurde – Log und Spieler nur zum Ansehen.";
+
+/* Backups */
+"There is no world folder “%@” in “%@”." = "In „%2$@“ gibt es keinen Welt-Ordner „%1$@“.";
+"zip exited with code %lld." = "zip wurde mit Code %lld beendet.";
+"The server didn't confirm saving the world." = "Der Server hat das Speichern der Welt nicht bestätigt.";
+
+/* Console */
+"simpleMCServer Console" = "simpleMCServer – Konsole";
+"Last update: %@ → %@, %@" = "Letztes Update: %1$@ → %2$@, %3$@";
+"Show" = "Anzeigen";
+"Full Log" = "Ganzes Log";
+"Chat Only" = "Nur Chat";
+"Restart" = "Neu starten";
+"Stop" = "Stoppen";
+"Start" = "Starten";
+"Mode" = "Modus";
+"Command" = "Befehl";
+"Chat" = "Chat";
+"Message to everyone" = "Nachricht an alle";
+"Command, e.g. time set day" = "Befehl, z. B. time set day";
+"The server isn't running" = "Der Server läuft nicht";
+"Online (%lld)" = "Online (%lld)";
+"Operator" = "Operator";
+"Player" = "Spieler";
+"since %@" = "seit %@";
+"Refused" = "Abgelehnt";
+"Not on the whitelist · %@" = "Nicht auf der Whitelist · %@";
+"Add" = "Hinzufügen";
+"Add to the whitelist" = "Zur Whitelist hinzufügen";
+"Dismiss" = "Ausblenden";
+"Remove from the whitelist" = "Von der Whitelist entfernen";
+"Nobody on the whitelist" = "Niemand auf der Whitelist";
+"Whitelist" = "Whitelist";
+"Whitelist active" = "Whitelist aktiv";
+"Only players on the whitelist can join." = "Nur Spieler auf der Whitelist können beitreten.";
+"The whitelist is off – everyone can join." = "Die Whitelist ist aus – jeder kann beitreten.";
+"Add player to whitelist" = "Spieler zur Whitelist hinzufügen";
+
+/* Settings */
+"simpleMCServer Settings" = "simpleMCServer – Einstellungen";
+"Server" = "Server";
+"Server folder" = "Server-Ordner";
+"Choose…" = "Auswählen…";
+"Java" = "Java";
+"Java found" = "Java gefunden";
+"Java not found" = "Java nicht gefunden";
+"Memory" = "Arbeitsspeicher";
+"Extra JVM arguments" = "Zusätzliche JVM-Argumente";
+"Start the server when simpleMCServer launches" = "Server beim Start von simpleMCServer starten";
+"Restart automatically after a crash" = "Nach einem Absturz automatisch neu starten";
+"Launch simpleMCServer at login" = "simpleMCServer bei der Anmeldung starten";
+"Folder, Java and memory take effect at the next server start." = "Ordner, Java und Arbeitsspeicher gelten ab dem nächsten Serverstart.";
+"Updates" = "Updates";
+"Install updates automatically" = "Updates automatisch installieren";
+"Check every night from" = "Jede Nacht prüfen ab";
+"Installed version" = "Installierte Version";
+"Last check" = "Letzte Prüfung";
+"Never" = "Noch nie";
+"Last update" = "Letztes Update";
+"Asks Mojang for a new release every night. It's installed as soon as nobody is online: the server stops, the world is backed up, the new version starts. You'll get a notification, and the menu shows it for a week." = "Fragt jede Nacht bei Mojang nach einer neuen Version. Sie wird installiert, sobald niemand online ist: Der Server stoppt, die Welt wird gesichert, die neue Version startet. Du bekommst eine Mitteilung, und im Menü steht es eine Woche lang.";
+"Keep" = "Behalten";
+"%lld backups" = "%lld Backups";
+"All" = "Alle";
+"Folder" = "Ordner";
+"World Backups" = "Welt-Backups";
+"Before every update, the world is zipped together with server.jar and server.properties, e.g. “%@_26.3_2026-10-24_04-00.zip”. Only these backups are deleted automatically." = "Vor jedem Update wird die Welt zusammen mit server.jar und server.properties gezippt, z. B. „%@_26.3_2026-10-24_04-00.zip“. Nur diese Backups werden automatisch gelöscht.";
+"Notifications" = "Mitteilungen";
+"Show the number of players in the menu bar" = "Spielerzahl in der Menüleiste anzeigen";
+"Notify when players join or leave" = "Mitteilung, wenn Spieler beitreten oder gehen";
+"Refused players, crashes and updates are always notified." = "Abgelehnte Spieler, Abstürze und Updates werden immer gemeldet.";
+"Which folder contains server.jar?" = "In welchem Ordner liegt die server.jar?";

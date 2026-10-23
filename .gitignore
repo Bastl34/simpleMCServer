@@ -1,0 +1,30 @@
+# build output (build.sh)
+build/
+*.dSYM/
+
+# SwiftPM / Xcode, in case the project gets opened there
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+
+# Minecraft server files from local testing – never commit a world or Mojang's jar
+*.jar
+*.jar.download
+*.jar.previous
+world*/
+logs/
+Backups/
+*.zip
+*.part
+
+# macOS
+.DS_Store
+._*
+
+# editors
+.vscode/
+.idea/
+*.swp
